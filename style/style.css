@@ -1,9 +1,16 @@
 body {
-    background-color:grey;
+    background-color:black;
+}
+
+h1{
+    font-style:italic; 
+    color:bluevioletl;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
 }
 
 .p1{
-    color:yellow; 
+    color:greenyellow; 
     background-color:green;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
@@ -21,11 +28,4 @@ body {
     color:orange;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 30%;
-}
-
-h1{
-    font-style:italic; 
-    color:bluevioletl;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: large;
 }
