@@ -1,0 +1,31 @@
+body {
+    background-color:grey;
+}
+
+.p1{
+    color:yellow; 
+    background-color:green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.p2{
+    background-color:indigo;
+    color:orange;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+}
+
+.p3{
+    background-color:yellow;
+    color:orange;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30%;
+}
+
+h1{
+    font-style:italic; 
+    color:bluevioletl;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
